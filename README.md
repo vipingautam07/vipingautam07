@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://user-images.githubusercontent.com/95081432/230739551-9e316210-916a-44cd-b32d-809443e627c2.png))](https://rishavchanda.io)
+![MasterHead](![image](https://user-images.githubusercontent.com/95081432/230739551-9e316210-916a-44cd-b32d-809443e627c2.png))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vipin Gautam</h1>
 <h3 align="center">A passionate developer and Programmer from India</h3>
 
