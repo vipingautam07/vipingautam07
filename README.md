@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **gautamvipin2002@gmail.com**
 
-- ⚡ Intrests **Fitness & Sports**
+- ⚡ Intrests: **Fitness & Sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
