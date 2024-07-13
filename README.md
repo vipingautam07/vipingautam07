@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **React, C++**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Data Structures & Web development**
 
 - 📫 How to reach me **gautamvipin2002@gmail.com**
 
-- ⚡ Fun fact **I am better in sports also.**
+- ⚡ Intrests **Fitness & Sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
